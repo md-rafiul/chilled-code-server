@@ -1,0 +1,8 @@
+[
+    {
+    "id" : "angular",
+    "img-URL" : "../img/vue.png",
+    "title" : "Angular is a platform for building mobile and desktop web applications.",
+    "details" : "CROSS PLATFORM: Progressive Web Apps Use modern web platform capabilities to deliver app-like experiences. High performance, offline, and zero-step installation. Native Build native mobile apps with strategies from Cordova, Ionic, or NativeScript. Desktop Create desktop-installed apps across Mac, Windows, and Linux using the same Angular methods you've learned for the web plus the ability to access native OS APIs. SPEED AND PERFORMANCE Code Generation Angular turns your templates into code that's highly optimized for today's JavaScript virtual machines, giving you all the benefits of handwritten code with the productivity of a framework. Universal Serve the first view of your application on Node.js®, .NET, PHP, and other servers for near-instant rendering in just HTML and CSS. Also paves the way for sites that optimize for SEO. Code Splitting Angular apps load quickly with the new Component Router, which delivers automatic code-splitting so users only load code required to render the view they request."
+    }
+]
